@@ -13,4 +13,4 @@ The average (and worst) scenario is that we traverse the list several times in o
 
 Score: 3-4/10 ; It's easy, and that's that, in big data bases n^2 is too much
 
-### 
+### Insertion sort
